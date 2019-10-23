@@ -1,7 +1,4 @@
-# bootcamp-gostack-desafio-02 - Gympoint
-App gerenciador de academia
-
-Aplicação utiliza:
+# bootcamp-gostack
 
 Express;
 Sucrase + Nodemon;
